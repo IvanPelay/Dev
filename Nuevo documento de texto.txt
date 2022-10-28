@@ -1,0 +1,16 @@
+pwd muestra nuestra ubicacion
+hola como estas
+ls listar archivos
+cd cambiar carpeta
+cd .. cambiar carpeta atras
+touch crea archivo
+nano escribe en archivo
+rm borrar archivo
+cuando se modifica y quien modifica
+definir en git nombre y correo esto solo registro
+git --version
+git config --global user.name "Iván"
+git config --global user.email pelayomtzivan@gmail.com
+git config --global core.edit "code --wait"
+git config --global -e abre el documento 
+con las configuracias establecidas
